@@ -1,0 +1,4 @@
+#!/bin/sh
+sudo useradd -m -k /home/hagema/skeleton_dir chef
+sudo passwd chef
+sudo usermod -G sudo chef

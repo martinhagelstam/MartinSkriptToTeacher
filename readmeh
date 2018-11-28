@@ -1,0 +1,9 @@
+Gjorde en skript som gör användare som admin eller normal när du använder adduser eller addadmin
+
+	adduser 
+
+Det här läger en ny användare som är normalt med inga rättigheter (inga admin rättigheter)
+
+	addadmin
+
+Det här läger en ny användare med admin rätigheter och är också en normal
